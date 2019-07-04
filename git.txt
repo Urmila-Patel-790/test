@@ -1,0 +1,23 @@
+touch filename.extension
+git init
+git config --global user.name 'username'
+git add filename.extension
+git status
+git rm --cached filename.extension
+git add *.html
+git add .
+git commit
+i
+esc
+:wq
+clear
+touch .gitignore
+touch log.txt
+
+
+git add -A
+git status
+git commit -m '....'
+git push origin master
+
+Harry@12345trewq
